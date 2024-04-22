@@ -29,6 +29,18 @@ const quotes = [
   {
     quote: "Lion",
   },
+
+  {
+    quote: "Monkey"
+  },
+
+  {
+    quote: "Frog"
+  },
+  
+  {
+    quote: "Bird"
+  },
 ]
 
 button.addEventListener("click", function() {
