@@ -1,0 +1,16 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  min-height: 90vh;
+}
+
+
+#quote-output {
+  font-size: 1.7rem;
+  font-style: bold;
+}
